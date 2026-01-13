@@ -7,6 +7,7 @@ This is an individual class project, aiming to design effective data schema base
 For this project, the public available user review data of Yelp - consumer reviews platform is utilized.
 
 **Datasets are too large, therefore they are attached via a [Google Drive link](https://drive.google.com/file/d/1x) in the final report, along with SQL statements to create tables, and Python program to insert data.**
+
 Instructions to run program has been uploaded in this repository. 
 
 ## Database Design Process
